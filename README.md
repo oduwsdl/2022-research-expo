@@ -1,5 +1,5 @@
 # 2022 Web Science &amp; Digital Libraries Research Group Expo
-## 2021-04-13
+## 2022-04-13
 
 2pm-4:30pm EDT
 
