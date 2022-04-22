@@ -3,7 +3,7 @@
 
 2pm-4:30pm EDT
 
-[https://odu.zoom.us/j/96824705546](https://odu.zoom.us/j/96824705546)
+Youtube recording of the presentations: https://www.youtube.com/watch?v=v01Ftofw_sU
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).  Be sure to check out the [2021 Research Expo](https://github.com/oduwsdl/2021-research-expo/).
 
