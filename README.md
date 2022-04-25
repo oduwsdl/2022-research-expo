@@ -3,9 +3,11 @@
 
 2pm-4:30pm EDT
 
+All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).  Be sure to check out the [2021 Research Expo](https://github.com/oduwsdl/2021-research-expo/).
+
 Youtube recording of the presentations: https://www.youtube.com/watch?v=v01Ftofw_sU
 
-All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).  Be sure to check out the [2021 Research Expo](https://github.com/oduwsdl/2021-research-expo/).
+WS-DL Blog: https://ws-dl.blogspot.com/2022/04/2022-04-23-2022-ws-dl-research-expo.html
 
 | Time  | Presentation |
 | --- | --- |
